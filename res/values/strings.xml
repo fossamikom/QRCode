@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Myapps</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="fossilsay">FOSSIL PROJECT 2013</string>
+    <string name="btnscan">SCAN</string>
+	<string name="btntentang">tentang kami</string>
+	<string name="pembuat">Dev ProgFossil</string>
+	<string name="titlewall">QRFossil</string>
+	<string name="tentang">Dev Fossil berkerja untuk membuat atau menciptakan tehknologi terbaru dan membuat sesuatu project untuk memberikan hal yang bermanfaat untuk lingkungan dengan dukungan Opensource Software </string>
+</resources>
